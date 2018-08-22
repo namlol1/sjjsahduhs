@@ -1084,4 +1084,4 @@ client.on('message',message =>{
 	   // 433743115837243412
 								   
 
-client.login("NDc5OTIwMjAzMjYyNTkwOTc2.Dlm93A.ITgkNW5R6XKoCkQHKIyVnFn_KyQ");
+client.login(process.env.BOT_TOKEN);
